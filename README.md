@@ -29,3 +29,4 @@ In the past 10 years, Thai people's happiness has increased or decreased ?
 
 # Action plan to handle the prediction results
 เราจะรับมือกับเหตุการณ์ที่เกิดจากการคาดการณ์ล่วงหน้าได้อย่างไร ?
+- detail
