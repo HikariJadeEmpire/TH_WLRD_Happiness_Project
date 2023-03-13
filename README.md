@@ -1,5 +1,6 @@
 # TH_WLRD_Happiness_Project
 Mini Project
+code : https://github.com/HikariJadeEmpire/TH_WLRD_Happiness_Project/blob/main/WH_CodeSpace.ipynb
 
 # DATA source
 - "World Happiness Report" : https://worldhappiness.report/ed/2022/(Optional) 
