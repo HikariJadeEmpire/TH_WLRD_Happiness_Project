@@ -10,15 +10,15 @@ What is the character of happiness country?
 - อธิบายลักษณะ
 
 # ความสุขโดยรวมของคนไทย เป็นอันดับที่เท่าไหร่ เมื่อเทียบกับทั่วโลก ?
-english
+What is the rank of overall happiness of Thai people compared to the world ?
 - detail
 
 # ในทวีป Asia ความสุขของประเทศไทยอยู่อันดับที่เท่าไหร่ ?
-english
+What is the rank of overall happiness of Thai people compared to the ASIA ?
 - detail
 
 # ใน 10 ปีที่ผ่านมา คนไทยมีความสุข เพิ่มขึ้น หรือ ลดลง ?
-english
+In the past 10 years, Thai people's happiness has increased or decreased ?
 - มีปัจจัยอื่นๆที่ส่งผลต่อความสุข ของคนในประเทศอีกไหม ? เช่น อัตรามลพิษ ( pm 2.5 ), พื้นที่ป่า, อัตราการ trade, อัตราการว่างงาน, ความหนาแน่นของประชากร
 - Compare to the best (Finland), Median (Bangladesh), The worst (Afghanistan)
 - Conclude
