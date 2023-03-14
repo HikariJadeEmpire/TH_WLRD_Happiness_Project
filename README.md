@@ -9,6 +9,7 @@ code : https://github.com/HikariJadeEmpire/TH_WLRD_Happiness_Project/blob/main/W
 # ประเทศที่มีความสุข มีลักษณะเป็นอย่างไร ?
 What is the character of happiness country?
 - อธิบายลักษณะ
+- ผู้คนทั้งโลกในตอนนี้ กำลังมีมีความสุขเพิ่มขึ้น หรือ ลดลง ?
 
 # ความสุขโดยรวมของคนไทย เป็นอันดับที่เท่าไหร่ เมื่อเทียบกับทั่วโลก ?
 What is the rank of overall happiness of Thai people compared to the world ?
